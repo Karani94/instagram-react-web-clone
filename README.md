@@ -1,1 +1,1 @@
-https://react-instagram-web-clone.netlify.app/auth/login
+https://instagram-react-web-clone.vercel.app/#
